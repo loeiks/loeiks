@@ -2,7 +2,7 @@
 
 📫 enes@exweiv.com
 
-[🎵 Spotify](https://open.spotify.com/user/2687a33sqfu100zw0yjegtop6?si=d1d5ac64db9245bb)
+🎵 [Spotify](https://open.spotify.com/user/2687a33sqfu100zw0yjegtop6?si=d1d5ac64db9245bb)
 
 <!--
 **l0eix/l0eix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
