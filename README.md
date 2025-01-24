@@ -1,20 +1,11 @@
-## Naber nasılsın burnun kapıya kısılsın 👋
+## Currently;
+
+**Learning more tools, techs, languages etc. to build really complex (also distributed) web applications at scale.**
+
+Exploring C language to build things outside of web related development. <br>
+Exploring AHK to build custom scripts to automate things in Windows 11. <br>
+and many other things... <br>
+
+---
 
 📫 enes@exweiv.com
-
-🎵 [Spotify](https://open.spotify.com/user/2687a33sqfu100zw0yjegtop6?si=d1d5ac64db9245bb)
-
-<!--
-**l0eix/l0eix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
