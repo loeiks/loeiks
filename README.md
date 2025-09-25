@@ -1,11 +1,8 @@
 ## Currently;
 
-**Learning more tools, techs, languages etc. to build really complex (also distributed) web applications at scale.**
+📖 Learning Go for high performance backend apps. (love it) <br>
+📖 Learning more about Linux, WSL and advanced dev tools. <br>
+🏗️ Building open source solutions for Wix develpers. <br>
+🏗️ Building complex web applications. <br>
 
-Exploring C language to build things outside of web related development. <br>
-Exploring AHK to build custom scripts to automate things in Windows 11. <br>
-and many other things... <br>
-
----
-
-📫 enes@exweiv.com
+and many other things...
