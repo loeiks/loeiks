@@ -1,8 +1,8 @@
 ## Currently;
 
 📖 Learning Go for high performance backend apps. (love it) <br>
-📖 Learning more about Linux, WSL and advanced dev tools. <br>
-🏗️ Building open source solutions for Wix develpers. <br>
-🏗️ Building complex web applications. <br>
+📖 Learning Effect for a better world with TypeScript. (one of the best things I decided to learn) <br>
+🏗️ Building internal tools for businesses. <br>
+⏳ Planning some new things. <br>
 
 and many other things...
